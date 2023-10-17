@@ -1,0 +1,10 @@
+flight_number,plane_size,origin,destination,departure_date,arrival_date,available
+L500,L,Santa Maria,Porto Alegre,2023-11-24T15:00:00,2023-11-24T15:00:00,True
+L800,S,Brasilia,Salvador,2023-10-12T21:00:00,2023-11-24T15:00:00,True
+L200,M,São Paulo,Rio de Janeiro,2023-09-02T18:00:00,2023-11-24T15:00:00,False
+B402,L,Brasilia,Belém,2023-10-15T05:00:00,2023-11-24T15:00:00,False
+L900,L,New York,Rio de Janeiro,2023-12-01T15:00:00,2023-12-02T4:00:00,True
+S100,S,Paris,New York,2023-12-03T15:00:00,2023-12-03T23:00:00,True
+S200,S,Sydney,Tokyo,2023-12-03T15:00:00,2023-12-03T23:00:00,True
+S520,S,Santiago,Brasília,2023-12-03T15:00:00,2023-12-03T23:00:00,True
+M342,M,Florianópolis,Rio de Janeiro,2023-12-03T23:00:00,2023-12-04T12:00:00,True
