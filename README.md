@@ -5,6 +5,10 @@ O código foi feito na linguagem de programação python, é necessário o uso d
 ### Screencast:
 [link no google drive](https://drive.google.com/file/d/1caVE8CHLrXofSCjumX4TjZ4jgco-oIOy/view?usp=share_link)
 
+### Proposta:
+
+Executar um sistema de compras de reservas e assentos em voos, podendo obter informações sobre o voo e assentos disponíveis.
+
 ### Conclusões:
 
 Mesmo que o trabalho não tenha seguido a proposta original que combinamos, eu escolhi fazer o trabalho em python e não me arrependi dessa escolha. Eu estou vendo python em deep learning nesse semestre e esse trabalho me ajudou a realmente colocar as coisas na prática, entender melhor a linguagem e a me familiarizar com ela. No começo eu tinha bastante preconceito com python porque já escutei que *"meninas só sabem programar usando isso porque é mais fácil"*, mas finalmente entendi o apelo da linguagem e porque ela é tão procurada.
